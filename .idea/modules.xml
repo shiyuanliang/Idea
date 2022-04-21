@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionLearning/CollectionLearning.iml" filepath="$PROJECT_DIR$/CollectionLearning/CollectionLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumAndComment/EnumAndComment.iml" filepath="$PROJECT_DIR$/EnumAndComment/EnumAndComment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericLearning/GenericLearning.iml" filepath="$PROJECT_DIR$/GenericLearning/GenericLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Idea.iml" filepath="$PROJECT_DIR$/Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaClassLearning/JavaClassLearning.iml" filepath="$PROJECT_DIR$/JavaClassLearning/JavaClassLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLeetcode/TestLeetcode.iml" filepath="$PROJECT_DIR$/TestLeetcode/TestLeetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread_Learning/Thread_Learning.iml" filepath="$PROJECT_DIR$/Thread_Learning/Thread_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myproject03/myproject03.iml" filepath="$PROJECT_DIR$/myproject03/myproject03.iml" />
+    </modules>
+  </component>
+</project>
